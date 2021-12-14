@@ -1,3 +1,11 @@
-import {double} from './utils.js';
+import {water} from './utils.js';
 
-console.log(double(5));
+
+
+// import bottle from './utils.js';
+//
+// bottle();
+//
+// import {default as bottle} from './utils.js';
+//
+// bottle();
